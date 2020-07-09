@@ -1,0 +1,40 @@
+body {
+   background-color: #1b4332;
+}
+
+h1 {
+  background-color: #1b4332;
+  text-align: center;
+  font-family: sans-serif; 
+  color: white;
+  }
+
+h2 {
+  text-align: center;
+  font-family: monospace;
+  font-style: italic;
+   color: black;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+figcaption{
+text-align: center;
+color: white;
+font-family: monospace;
+}
+
+main{
+color: black;
+font-family: monospace;
+font-size: 1.5em; /* 14px/16=0.875em */
+}
+
+a {
+  color: white;
+}
